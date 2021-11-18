@@ -1,1 +1,1 @@
-# M1_ProjectType_Goal
+# M1_BankManagementSystem_Goal

@@ -48,7 +48,7 @@ When:
 
 Where:
 
-• This problem is surfaced in all the organisation in the world.
+• This problem is faced in all the organisation across the world.
 
 
 How:

@@ -2,7 +2,7 @@
 
 ***Information***
  
- Bank management system is a project that manages and stores books information electronically according to customers’ needs. The project is for monitoring and controlling the transactions in a bank and mainly focuses on operations in a bank like to stostoringrelated to new accthe accountsrtransactionsediting of account information ,and viewing of account information. 
+Bank management system is a project that manages and stores books information electronically according to customer’s needs. The project is for monitoring and controlling the transactions in a bank and which mainly focuses on operations in a bank like to store data related to new account, transaction, editing of account information and viewing of account information.  
  
  
  
@@ -34,23 +34,26 @@
 
 Who:
 
-**TBD**
+• Everyone can use the bank management system who want to have benefit of banking.
 
 What:
 
-**TBD**
+• Previously it was inefficient due to prolonged time for entering N numbers of customer records manually. 
+• This project is mainly concerned to cover the major banking activities in single application.
 
 When:
 
-**TBD**
+• With the increases of customers daily ,their data needs to be managed.
+
 
 Where:
 
-**TBD**
+• This problem is surfaced in all the organisation in the world.
+
 
 How:
 
-**TBD**
+• Implementation is done using C language. And also used multifile concept.
 
 
 # Detail requirements

@@ -66,7 +66,6 @@ HLR3| User shall Withdraw Money| Implemented
 HLR4| User shall View Details| Implemented
 
 
-
 ##  Low level Requirements:
 ID | Description | Status (Implemented/Future)
 ----- | ------------|---------------------------

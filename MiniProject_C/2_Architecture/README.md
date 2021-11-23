@@ -9,4 +9,3 @@
 ## Low Level Design
 ***(ii) Activity diagram***
 ![Screenshot (289)](https://user-images.githubusercontent.com/94280220/142652514-6b549480-0c1b-4140-b633-fcf3b3339e41.png)
-

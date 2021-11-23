@@ -45,12 +45,10 @@ void display_options();
 int main()
 {
     char option;
-    char f2f[50] = "http://fresh2refresh.com/";
     num_acc=0;
     while(1)
     {
        printf("\n***** Welcome to Bank Application *****\n");
-       printf("\nThis demo program is brought you by %s",f2f);
        display_options();
        printf("Please enter any options (1/2/3/4/5/6) ");
        printf("to continue : ");

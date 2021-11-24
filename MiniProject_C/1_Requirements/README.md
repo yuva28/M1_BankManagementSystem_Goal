@@ -27,24 +27,24 @@ Bank management system is a project that manages and stores books information el
 
 
 ***4W&#39;s and 1&#39;H***
-#### Who:
+#### Who
 
 • Everyone can use the bank management system who want to have benefit of banking.
 
-#### What:
+#### What
 
 • Previously it was inefficient due to prolonged time for entering N numbers of customer records manually. 
 • This project is mainly concerned to cover the major banking activities in single application.
 
-#### When:
+#### When
 
 • With the increases of customers daily ,their data needs to be managed.
 
-#### Where:
+#### Where
 
 • This problem is faced in all the organisation across the world.
 
-#### How:
+#### How
 
 • Implementation is done using C language. And also used multifile concept.
 

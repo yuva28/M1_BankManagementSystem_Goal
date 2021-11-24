@@ -4,7 +4,6 @@
 Bank management system is a project that manages and stores books information electronically according to customer’s needs. The project is for monitoring and controlling the transactions in a bank and which mainly focuses on operations in a bank like to store data related to new account, transaction, editing of account information and viewing of account information.  
  
  
- 
  ***Features***
  
  (i)	Creating new account – To create a new account
@@ -18,15 +17,12 @@ Bank management system is a project that manages and stores books information el
 (v) Log out
 
 
-
-
 ***SWOT Analysis***
+
 ![SWOT](https://user-images.githubusercontent.com/94280220/142659531-13b8df0b-c2d0-430c-9792-ac6037e14718.png)
 
 
-
-
-***4W&#39;s and 1&#39;H***
+***4W and 1H***
 #### Who
 
 • Everyone can use the bank management system who want to have benefit of banking.

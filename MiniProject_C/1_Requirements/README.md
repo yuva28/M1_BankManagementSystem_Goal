@@ -21,7 +21,6 @@ Bank management system is a project that manages and stores books information el
 
 ![SWOT](https://user-images.githubusercontent.com/94280220/142659531-13b8df0b-c2d0-430c-9792-ac6037e14718.png)
 
-
 ***4W and 1H***
 #### Who
 

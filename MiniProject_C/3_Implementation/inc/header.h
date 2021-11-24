@@ -1,11 +1,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-
-#include <stdio.h>
-#include <conio.h>
 #include <string.h>
-#include <stdlib.h>
 
 // Structure declaration
 struct acc_type
@@ -33,3 +29,10 @@ struct acc_type account[20];
      }Acc_detail;
      Acc_detail account[20];
 */
+
+void Create_new_account();
+void Cash_Deposit();
+void Cash_withdrawl();
+void Account_information();
+void Log_out();
+void display_options();

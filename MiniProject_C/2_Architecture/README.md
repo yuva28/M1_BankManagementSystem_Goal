@@ -1,6 +1,4 @@
 # Architecture
-
-
 ## High Level Design
 ***(i) Use case diagram***
 ![Screenshot (290)](https://user-images.githubusercontent.com/94280220/142655698-6bd16e5c-7259-4283-97f9-d6cda518276c.png)

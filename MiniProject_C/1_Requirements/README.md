@@ -7,6 +7,7 @@ Bank management system is a project that manages and stores books information el
  
  
  ***Features***
+ 
  (i)	Creating new account – To create a new account
  
 (ii) Cash Deposit – To Deposit some amount in newly created account
@@ -27,32 +28,32 @@ Bank management system is a project that manages and stores books information el
 
 
 ***4W&#39;s and 1&#39;H***
-Who:
+#### Who:
 
 • Everyone can use the bank management system who want to have benefit of banking.
 
-What:
+#### What:
 
 • Previously it was inefficient due to prolonged time for entering N numbers of customer records manually. 
 • This project is mainly concerned to cover the major banking activities in single application.
 
-When:
+#### When:
 
 • With the increases of customers daily ,their data needs to be managed.
 
 
-Where:
+#### Where:
 
 • This problem is faced in all the organisation across the world.
 
 
-How:
+#### How:
 
 • Implementation is done using C language. And also used multifile concept.
 
 
 # Detail requirements
-## High Level Requirements:
+## High Level Requirements
 ID | Description | Status (Implemented/Future)
 ----- | ------------|---------------------------
 HLR1| System Shall be able to open new Account | Implemented
@@ -61,7 +62,7 @@ HLR3| User shall Withdraw Money| Implemented
 HLR4| User shall View Details| Implemented
 
 
-##  Low level Requirements:
+##  Low level Requirements
 ID | Description | Status (Implemented/Future)
 ----- | ------------|---------------------------
 LLR1| User can have transaction only if user has Account | Implemented

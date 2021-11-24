@@ -7,8 +7,6 @@ Bank management system is a project that manages and stores books information el
  
  
  ***Features***
- 
- 
  (i)	Creating new account – To create a new account
  
 (ii) Cash Deposit – To Deposit some amount in newly created account
@@ -23,15 +21,12 @@ Bank management system is a project that manages and stores books information el
 
 
 ***SWOT Analysis***
-
-
 ![SWOT](https://user-images.githubusercontent.com/94280220/142659531-13b8df0b-c2d0-430c-9792-ac6037e14718.png)
 
 
 
 
 ***4W&#39;s and 1&#39;H***
-
 Who:
 
 • Everyone can use the bank management system who want to have benefit of banking.

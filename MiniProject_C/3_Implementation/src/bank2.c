@@ -32,13 +32,6 @@ struct acc_type account[20];
 
 int num_acc;
 
-void Create_new_account();
-void Cash_Deposit();
-void Cash_withdrawl();
-void Account_information();
-void Log_out();
-void display_options();
-
 /* main program */
 int main()
 {

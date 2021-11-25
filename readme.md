@@ -4,10 +4,9 @@
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9820249c3b9f46d6904fcffe433fa2f4)](https://www.codacy.com/gh/yuva28/M1_BankManagementSystem_Goal/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=yuva28/M1_BankManagementSystem_Goal&amp;utm_campaign=Badge_Grade)
 
-https://api.codiga.io/project/29874/status/svg
+![code quality score](https://api.codiga.io/project/29874/score/svg)
 
-https://api.codiga.io/project/29874/score/svg
-
+![code grade](https://api.codiga.io/project/29874/status/svg)
 
 
 ## Folder Structure
